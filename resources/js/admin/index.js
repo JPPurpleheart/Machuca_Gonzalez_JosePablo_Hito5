@@ -1,0 +1,13 @@
+import './admin-user';
+import './profile-edit-profile';
+import './profile-edit-password';
+import './registered-user';
+import './despensa';
+import './recibe';
+import './editorial';
+import './libro';
+import './prestamo';
+import './talla';
+import './categoria';
+import './ropero';
+import './folleto';
